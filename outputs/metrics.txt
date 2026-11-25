@@ -1,0 +1,5 @@
+Dataset: CarPrice_Assignment.csv
+Rows used: 205 | Features: 24 | Target: price
+--------------------------------------------------
+Linear Regression -> MAE: 3700.7702 | RMSE: 6480.4977 | R2: 0.4680
+Random Forest -> MAE: 1319.1250 | RMSE: 1889.0726 | R2: 0.9548
